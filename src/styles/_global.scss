@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    background: #fff;
+    scroll-behavior: smooth;
+}
+
+body {
+    color: rgb(32, 32, 43);
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 500;
+    overflow-x: hidden;
+}
